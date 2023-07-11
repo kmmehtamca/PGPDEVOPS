@@ -1,3 +1,3 @@
 hhhhhpatanahi kapil conflict
-added second line in dev1 machine
+added second line in dev1 machine new conflict for rebase
 added third line in dev1 macgine
